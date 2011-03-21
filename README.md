@@ -1,4 +1,4 @@
-# Agencia Brasil URL structure (as of March 31, 2011):
+# Agencia Brasil URL structure (as of March 21, 2011):
 
 ## Home Page (with the license note)
 - http://agenciabrasil.ebc.com.br/
